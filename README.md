@@ -12,7 +12,7 @@
 - [Project Outcomes](#project-outcomes)
 
 ### Project Description
-Development of a comprehensive and user-friendly food delivery platform.
+Development of a comprehensive and user-friendly [food delivery platform](https://eyowhite.com/projects/).
 
 ### Problem Statement
 
